@@ -1,2 +1,2 @@
 # cryptoT
-texte previsão crypto moeda
+Teste previsão de cryptomoeda
